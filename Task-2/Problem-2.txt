@@ -1,0 +1,20 @@
+START
+
+Intialise a to zero
+Intialise b to one
+Intialise c to zero 
+
+DISPLAY "Enter a number"
+n is equal to input
+Read n
+
+FOR (Intialise i to 2, i is less than n, increment i in every loop)
+      Set c is equal to "a+b"
+      Set a is equal to "b"
+      Set b is equal to "c"
+
+END FOR
+
+print c
+
+STOP

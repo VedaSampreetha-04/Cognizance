@@ -1,0 +1,18 @@
+START
+Display "Enter a number"
+n is equal to input
+Read n
+Intialize a to "n/3"
+Intialize b to "a*3"
+Intialize c to "n-b"
+
+IF c is equal to zero,
+      print "True"
+
+ELSE,
+      print "False"
+
+END IF
+
+STOP
+      
